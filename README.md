@@ -165,7 +165,10 @@ Jira is the planning and tracking layer of DevOps.
 <a id="jira-cloud-free-workflow"></a>
 
 
+
 # 🔹 Jira Cloud Free Workflow (Recommended for Freshers / Students)
+
+- [Screenshot's](#screenshot)
 
 > As a fresher or student, we usually do not use Jira paid (Data Center) version.
 > The Free Tier is enough to understand dashboards, teams, sprints, backlogs, and task tracking.
@@ -346,6 +349,27 @@ Dashboard shows:
 
 For beginners, understanding dashboard workflow is very important.
 
+---
+---
+
+
+<a id="screenshot"></a>
+
+
+| **Browser**    | ****          | ****          |
+|--------------------------------|------------------------------------|------------------------------------|
+| ![VS]() | ![AWS]() | ![AWS]() |  
+
+| ****    | ****          | ****          |
+|--------------------------------|------------------------------------|------------------------------------|
+| ![VS]() | ![AWS]() | ![AWS]() |  
+
+
+
+
+
+
+---
 ---
 
 
