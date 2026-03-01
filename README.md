@@ -144,6 +144,8 @@ Example:
 6. Application deployed.
 7. Monitoring tools observe performance.
 
+> Even in the Free Tier, we can create Scrum projects, manage sprints, track bugs, and assign tasks to team members.
+
 Jira integrates with:
 
 - GitHub
@@ -156,6 +158,192 @@ Jira integrates with:
 Jira is the planning and tracking layer of DevOps.
 
 ---
+
+---
+
+# 🔹 Jira Cloud Free Workflow (Recommended for Freshers / Students)
+
+> As a fresher or student, we usually do not use Jira paid (Data Center) version.
+> The Free Tier is enough to understand dashboards, teams, sprints, backlogs, and task tracking.
+
+---
+
+### Step 1: Create Account on Official Website
+
+Go to:
+
+https://www.atlassian.com/software/jira
+
+Click **Get it free** and sign up.
+
+During signup:
+
+> Select **Software Development** because it enables Scrum boards, sprint management, backlog tracking, and task workflows.
+
+Next screen:  
+“How does your team work in Jira?”
+
+Select:
+
+- Work in Scrum  
+- Run Sprints  
+- Track Bugs  
+- Manage Tasks  
+
+This enables Agile project features.
+
+---
+
+### Step 2: Create Team
+
+After Jira web page opens:
+
+Left side → Scroll down → Click **Teams**
+
+Click:
+
+```
+Create new team
+```
+
+> Creating a team ensures proper access control and issue assignment.
+
+Add team members by entering their email IDs.
+
+They will receive invitation mail.
+
+They must click:
+
+```
+Accept Invitation
+```
+
+Now team setup is complete.
+
+---
+
+### Step 3: Open Your Project
+
+At top, you will see your project name  
+(Example: “My Software Team”)
+
+Click that project.
+
+Select:
+
+```
+Scrum Project
+```
+
+Now go to:
+
+```
+Backlog
+```
+
+---
+
+### Step 4: Create Tasks in Backlog
+
+Click:
+
+```
+Create Issue
+```
+
+Example tasks:
+
+- Create EC2 Instance  
+- Create VPC  
+- Create RDS  
+- Deploy Application  
+
+---
+
+### Step 5: Assign Task
+
+In issue window:
+
+Click **Assignee**
+
+You will see team member names.
+
+Select member.
+
+Set:
+
+- Due Date  
+- Priority  
+- Time estimation  
+
+Now task is assigned.
+
+---
+
+### Step 6: Board View
+
+Click:
+
+```
+Board
+```
+
+You will see workflow:
+
+```
+To Do → In Progress → Done
+```
+
+You can drag & drop tasks.
+
+> In Free Tier, we can create sprints, assign tasks, add subtasks, and track progress using boards.
+
+You can also:
+
+✔ Add Subtasks  
+✔ Add Labels  
+✔ Track who completed what  
+✔ Monitor sprint progress  
+
+---
+
+### Step 7: Sprint Creation
+
+Go to:
+
+```
+Backlog → Create Sprint
+```
+
+Move tasks into sprint.
+
+Click:
+
+```
+Start Sprint
+```
+
+Now sprint tracking begins.
+
+---
+
+### Step 8: Dashboard Understanding
+
+Go to main menu → Click **Dashboards**
+
+> Even in the Free Tier, dashboards help visualize assigned issues, sprint progress, and team activity.
+
+Dashboard shows:
+
+- Task status  
+- Sprint completion  
+- Assigned work  
+- Work distribution  
+
+For beginners, understanding dashboard workflow is very important.
+
+---
+
 
 <a id="jira-installation"></a>
 
