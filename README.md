@@ -12,6 +12,7 @@
 - [About Jira](#about-jira)
 - [Jira Architecture](#jira-architecture)
 - [Jira in DevOps Workflow](#jira-in-devops-workflow)
+- [Jira Cloud Free Workflow](#jira-cloud-free-workflow)
 - [Jira Installation (Linux Server Setup)](#jira-installation)
 - [Creating First Project](#creating-first-project)
 - [Conclusion](#conclusion)
@@ -160,6 +161,9 @@ Jira is the planning and tracking layer of DevOps.
 ---
 
 ---
+
+<a id="jira-cloud-free-workflow"></a>
+
 
 # 🔹 Jira Cloud Free Workflow (Recommended for Freshers / Students)
 
