@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/ChatGPT%20Image%20Mar%201,%202026,%2007_04_11%20PM.png?raw=true" width="300" alt="Jira Logo">
+  <img src="https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/ChatGPT%20Image%20Mar%201,%202026,%2007_04_11%20PM.png?raw=true" width="500" alt="Jira Logo">
 </p>
 
 ---
