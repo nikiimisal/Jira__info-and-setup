@@ -179,7 +179,7 @@ Jira is the planning and tracking layer of DevOps.
 
 Go to:
 
-https://www.atlassian.com/software/jira
+https://www.atlassian.com/software/jira?campaign=18442427757&adgroup=197828578972&targetid=kwd-817493168159&matchtype=e&network=g&device=c&device_model=&creative=795706206689&keyword=jira%20official%20site&placement=&target=&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gad_campaignid=18442427757&gbraid=0AAAAAD_uzhCJn-nNxs0HUsKMC_QKEb2Cl&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsbXLrW1rCnTeuuMIqruFzMUdh3D9T1bWUnFDoehzGcaNOLDUyUanU4aAj13EALw_wcB
 
 Click **Get it free** and sign up.
 
