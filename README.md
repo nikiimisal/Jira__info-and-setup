@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://wac-cdn.atlassian.com/dam/jcr:8c2c1f9e-1c8e-4b0e-b7cb-0dfc2c1d9b77/Jira-logo-blue.svg" width="300" alt="Jira Logo">
+  <img src="https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/ChatGPT%20Image%20Mar%201,%202026,%2007_04_11%20PM.png?raw=true" width="300" alt="Jira Logo">
 </p>
 
 ---
@@ -356,14 +356,19 @@ For beginners, understanding dashboard workflow is very important.
 <a id="screenshot"></a>
 
 
-| **Browser**    | ****          | ****          |
-|--------------------------------|------------------------------------|------------------------------------|
-| ![VS]() | ![AWS]() | ![AWS]() |  
+| **Browser**    | ****          | ****          | ****          |
+|--------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| ![VS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20180538.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20165924.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20165943.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20170047.png?raw=true) |    
 
-| ****    | ****          | ****          |
-|--------------------------------|------------------------------------|------------------------------------|
-| ![VS]() | ![AWS]() | ![AWS]() |  
+| ****    | ****          | ****          | ****          |
+|--------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| ![VS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20170135.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20170145.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20170407.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20170809.png?raw=true) |    
 
+
+
+| ****    | ****          |
+|--------------------------------|------------------------------------|
+| ![VS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20171217.png?raw=true) | ![AWS](https://github.com/nikiimisal/Jira__info-and-setup/blob/main/img/Screenshot%202026-03-01%20173634.png?raw=true) |   
 
 
 
