@@ -179,7 +179,9 @@ Jira is the planning and tracking layer of DevOps.
 
 Go to:
 
-https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjKxObrh4CTAxXM0zwCHf9VEaIYACICCAEQAxoCc2Y&co=1&ase=2&gclid=Cj0KCQiA5I_NBhDVARIsAOrqIsYYAApbSb9E43UnCrAg3cO4Trgxhm5JB8_cUuiEEWLZE-jkUeuYgv4aAuqcEALw_wcB&cid=CAASuwHkaHQNOZpxV_sDXJ7J8En81PKE8ctqATtGgSqQq_Rxq_VBogDt1hDYtFfUWWPz7ChIiEAETF44zDBOkhOp2tm5bz6AoYyPJ5vlJpF8J3opxL6prdi6hZzu1piUzasDT7uGGq3Jwy-3pMW0Ao_xyEatRyDhhTUiGzB6lIcJicuTH8lTTPOsnYZxxIH1BvNt--a5rjMs1Biscc6zAuzESSrTMjznltq5a2KV8eYrj1WD3noC7wdQVXGql1Hm&cce=2&category=acrcp_v1_32&sig=AOD64_0aTqMdYS8YJwLyIcS6OwU4VgcbZg&nis=6&ved=2ahUKEwjkkeHrh4CTAxVARmwGHSNhBRUQqyQoAXoECAsQEA&ch=1&adurl=https://www.atlassian.com/software/jira%3Fcampaign%3D18442427757%26adgroup%3D197828578972%26targetid%3Dkwd-817493168159%26matchtype%3De%26network%3Dg%26device%3Dc%26device_model%3D%26creative%3D795706206689%26keyword%3Djira%2520official%2520site%26placement%3D%26target%3D%26ds_eid%3D700000001558501%26ds_e1%3DGOOGLE%26gad_source%3D1%26gad_campaignid%3D18442427757%26gbraid%3D0AAAAAD_uzhCJn-nNxs0HUsKMC_QKEb2Cl%26gclid%3DCj0KCQiA5I_NBhDVARIsAOrqIsYYAApbSb9E43UnCrAg3cO4Trgxhm5JB8_cUuiEEWLZE-jkUeuYgv4aAuqcEALw_wcB
+https://www.atlassian.com/software/jira
+
+> or just search jira official site
 
 Click **Get it free** and sign up.
 
